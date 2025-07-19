@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Software Engineer** passionate about backend and fullstack development.  
+I'm a Software Engineer passionate about backend and fullstack development.  
 I’ve worked on projects ranging from transportation systems, customer experience platforms, to healthtech solutions.
 
-I'm currently learning **Python** 🐍 to expand my skillset into the world of **Data Science** 📊.
+I'm currently learning Python 🐍 to expand my skillset into the world of Data Science 📊.
 
 ---
 
